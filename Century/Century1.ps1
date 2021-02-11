@@ -1,0 +1,1 @@
+$PSVersionTable.Item("BuildVersion")
